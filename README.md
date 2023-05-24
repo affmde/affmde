@@ -7,6 +7,9 @@
 		<a href="https://github.com/affmde/">
 			<img alt="Github" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>
+		<a href="http://andreffmiranda.com">
+			<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=white"/>
+		</a>
 		<a href="https://www.instagram.com/andremiranda4/">
 			<img alt="Instagram" src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/>
 		</a>
@@ -30,15 +33,15 @@
 
 ### :man_technologist: About Me :
 
-I am a portuguese Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from leaving in Finland.
+I am a portuguese Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leaving in Finland.
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+:telescope: I am studying Software development at Hive, Helsinki and I am interested in Web and Game Development.
 
-:book: Explore thecnical books.
+:book: Explore technical books.
 
 :guitar: In my free time, I love to do sports and play guitar
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-affmde-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-miranda-3a768556/)
+:mailbox: Contact me: [![Linkedin Badge](https://img.shields.io/badge/-affmde-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-miranda-3a768556/)
 
 
 ---
