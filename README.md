@@ -33,7 +33,7 @@
 
 ### :man_technologist: About Me :
 
-I am a portuguese Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leaving in Finland.
+I am a portuguese Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Finland.
 
 :telescope: I am studying Software development at Hive, Helsinki and I am interested in Web and Game Development.
 
